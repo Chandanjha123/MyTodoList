@@ -24,7 +24,7 @@ A modern task management application with dark/light theme support and priority 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone (https://github.com/Chandanjha123/MyTodoList/tree/main/todo-list-premium)
 
 
 📂 Project Structure
